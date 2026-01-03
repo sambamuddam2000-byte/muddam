@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="zaawkZ5Ny02OLLhlT0WQTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-10, -10, 1940, 1034" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAMUExURQgICDNmmY6NkP///zGrQCAAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAR0lEQVQ4T83OMQ4AIAhD0Yr3v7ODk5hCByX8wYG8CLAk+IEPZjNIBYPUCvDeAQA4331CJaDJIF1RAGgyuD8PbvgEaBqIS8ECmugIIc6JmWoAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science' /&gt;" Url="https://www.calculator.net/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="61784ae739a04f42eb650acc899351eb.jpg" xmlns="">0waSWac9WgkKcFKm4Ilmh9Q</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

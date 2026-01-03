@@ -1,0 +1,6 @@
+{
+  "Name": "TestAutomationProject2",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project",
+  "MainFile": "Main.xaml"
+}

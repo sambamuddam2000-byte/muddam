@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="QP4yZKVGKUaxR8LWEQVJSA" Reference="KtDzu6DY7UuDAnpqQ30Q9g/r9oubQ51CEu621Im1SttMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-10, -10, 1940, 1034" BrowserType="Chrome" ContentHash="Tvx7iHvf90i32hU-fnbf1w" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFJsAABSbAYfPEIQAAAGpSURBVDhPnZPLLwNRFMbnL6l4LVgRFiUlHpsmJBaiNioShJ0mgrARK2JhIaISIop4pCJEhIiIBWrBlJZWaAf1ar3pE51+cq+0MjNdDDf5Mifnfud3zz2ZyzAMw7BKhYZVKk5YpQIyRbwaUhstFhvkSkMA9jgbcmUjAHHyT4oB7Fo1zpqqaGwtzYa1JEtgPChKg7O1nsbmvBTqiQGOypTgA354WRMOi9MRur7EVV8nuI5GuMcHqZF8vXs7NL43GuCZHv4FOJq0eNlcxdOyEc9riyDLoasGHwzgaWUeFnUmPYB0cKwpAB/wCTsgutH3Isid0uKQi4PfbkEk/IXL7jY8Ls2C9/tgzkvG69Y63BN66QzedjcR4cN4mDMg8vlBAd59E26H++jpPsseHM01NLaoM4QAc24iwj4v3IYB3I32U5OtshDB8zOE319pF3TxPDyTQ4Lh/gBUSbg3juEgP5UOztlaRzcJzNlSCzYnARddOtrhcblKCpAjrr0B/hOrJC8b8LgwBc/MiCRPADZxMp7etjck94/+yhViczxxbfVw9bSL84IX+a/n/A1Z+2vHyTaRGgAAAABJRU5ErkJggg==" Reference="KtDzu6DY7UuDAnpqQ30Q9g/r9oubQ51CEu621Im1SttMQ" Selector="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" Url="https://www.makemytrip.com/flights/?cmp=SEM|D|DF|G|Brand|Brand-BrandExact_DT|B_M_Makemytrip_Search_Exact|RSA&amp;cmpdata=SEM|MMT|BRAND&amp;gad_source=1&amp;gad_campaignid=313149128&amp;gbraid=0AAAAAD5Az1TyJm5rCpY0xoLKEqADg-kd0&amp;gclid=CjwKCAiAlMHIBhAcEiwAZhZBUiKf616f5FSkW2TcJFSBDcgN0F-w6yYCh3lvC0bH7ftNtye79IlzAxoCN0AQAvD_BwE" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="38fc33d5b203a307f2ce6b997c4708a4.jpg" xmlns="">0gMCRpl-ygkixCt9dVBK7Tw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

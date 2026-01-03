@@ -1,0 +1,14 @@
+﻿{
+  "Name": "https://www.makemytrip.com/",
+  "Type": "App",
+  "Id": "bbGlCSEuJ0WmN5o8jertvg",
+  "Reference": "KtDzu6DY7UuDAnpqQ30Q9g/bbGlCSEuJ0WmN5o8jertvg",
+  "Created": "2025-11-08T08:22:28.8638158Z",
+  "Updated": "2025-11-08T08:22:41.4642479Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

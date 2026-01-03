@@ -1,0 +1,6 @@
+{
+  "Name": "Sum of Two Numbers by using arguments",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project",
+  "MainFile": "Main.xaml"
+}

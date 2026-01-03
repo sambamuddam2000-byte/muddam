@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XSiNiL_KjEOBq3mkzeVRvw" Reference="m_jvy_sjzEiUD8Xa_wTcHg/C0xmHu2GiEOdAbYJVyo9RA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com" CVScreenId="30f24c14-0d84-4efb-a35f-462834850806" CvElementArea="924, 302, 470, 46" CvType="InputBox" DesignTimeRectangle="925, 297, 467, 53" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl class='_18u87m _3WuvDp' matching:class='fuzzy' fuzzylevel:class='0.0' tag='INPUT' type='text' /&gt;" Guid="3792784f-9ade-4f56-834c-c5678c4819b5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp;amp; More. Best Offers!' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="30f24c14-0d84-4efb-a35f-462834850806" CvTextArea="924, 287, 229, 16" CvTextArgument="Enter Email/Mobile number" CvType="Text" DesignTimeRectangle="925, 286, 227, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='_1223i3' aaname='Enter Email/Mobile number' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Enter Email/Mobile number' /&gt;" Guid="c1ec726f-d9f1-418a-8c60-38bbc6a35c44" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

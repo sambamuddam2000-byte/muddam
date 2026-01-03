@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Enter EmailMobile numb…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JcnNdVxeY0ifvnv9R5c1mQ",
+  "Reference": "m_jvy_sjzEiUD8Xa_wTcHg/JcnNdVxeY0ifvnv9R5c1mQ",
+  "ParentRef": "m_jvy_sjzEiUD8Xa_wTcHg/Ik1jKha-5ESrF0aBSMwbow",
+  "Created": "2025-11-13T06:10:52.4960776Z",
+  "Updated": "2025-11-13T06:10:52.4960776Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

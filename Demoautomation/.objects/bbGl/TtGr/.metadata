@@ -1,0 +1,15 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "TtGr-hLdyESLk-48izw-nA",
+  "Reference": "KtDzu6DY7UuDAnpqQ30Q9g/TtGr-hLdyESLk-48izw-nA",
+  "ParentRef": "KtDzu6DY7UuDAnpqQ30Q9g/bbGlCSEuJ0WmN5o8jertvg",
+  "Created": "2025-11-08T08:22:28.8975812Z",
+  "Updated": "2025-11-08T08:22:41.5474504Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

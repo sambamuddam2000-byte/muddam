@@ -1,0 +1,86 @@
+{
+  "name": "Demo automation",
+  "projectId": "af193547-da75-4f49-815e-72f2571f0544",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[3.3.0-preview]",
+    "UiPath.System.Activities": "[25.10.2]",
+    "UiPath.Testing.Activities": "[25.10.0]",
+    "UiPath.UIAutomation.Activities": "[25.10.19]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.179.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ecde1647-cd2c-4200-9da0-5d361f5d62bf",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c6ff596d-f30f-4e7e-8dce-0f4fe1c6b44e",
+        "dataVariationFilePath": ".variations\\Test1_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": ".project\\Case3.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "65677fdb-372c-42ea-b570-358b16398f77",
+        "testCaseType": "TestCase",
+        "fileName": "Excelautomation.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bcfe9112-36ba-493a-94e8-561ec47e7220",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "AutomationTestcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3a31b20b-7dd5-4810-acde-a7845f2edfb5",
+        "testCaseType": "TestCase",
+        "fileName": "AutomationExcel.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

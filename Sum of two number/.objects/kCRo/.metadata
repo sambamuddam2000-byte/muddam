@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Calculator.net Free Online Calculators - Math, Fitness, Finance, Science",
+  "Type": "App",
+  "Id": "kCRo649kbUOMWqO1JrFcNA",
+  "Reference": "kVNjYExTNkeLPUT-AlLBDw/kCRo649kbUOMWqO1JrFcNA",
+  "Created": "2025-11-03T12:57:36.4956788Z",
+  "Updated": "2025-11-03T12:57:36.4956788Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

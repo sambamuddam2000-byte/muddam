@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sum of Two numbers.Core</name>
+    </assembly>
+    <members>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64,System.Boolean)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestCase(System.Boolean)">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestCase">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestCase1(System.Boolean)">
+            <summary>
+            Invokes the TestCase1.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestCase1">
+            <summary>
+            Invokes the TestCase1.xaml
+            </summary>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestTwonubersofsum(System.Boolean)">
+            <summary>
+            Invokes the TestTwonubersofsum.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:SumofTwonumbers.WorkflowRunnerService.TestTwonubersofsum">
+            <summary>
+            Invokes the TestTwonubersofsum.xaml
+            </summary>
+        </member>
+    </members>
+</doc>

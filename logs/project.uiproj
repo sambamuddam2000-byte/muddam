@@ -1,0 +1,6 @@
+{
+  "Name": "logs",
+  "ProjectType": "Process",
+  "Description": "Background Process",
+  "MainFile": "Main.xaml"
+}

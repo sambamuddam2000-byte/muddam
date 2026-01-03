@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xEZ7Rt880k2FoDjHOII9Kw" Reference="m_jvy_sjzEiUD8Xa_wTcHg/jnj3J7J4u0-dhnnxuDEkLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com" CVScreenId="7bead792-4642-44cc-907f-db8234871e6c" CvElementArea="919, 320, 473, 43" CvType="InputBox" DesignTimeRectangle="925, 325, 284, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='LABEL' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;label' innertext='Enter Email/Mobile number' /&gt;" Guid="ec3a6dff-b762-4077-a3ec-e2515abd0734" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books &amp;amp; More. Best Offers!' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None" />
+    <x:String x:Key="ActivityType">SetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NOkbCA-a-k-wniSLLRV1RQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="instagram.com" CVScreenId="a9cee7a6-ed1c-4200-9974-6d62b9670a78" CvElementArea="1176, 484, 382, 56" CvType="InputBox" DesignTimeRectangle="1192, 487, 353, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Password' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='_aa4a' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="60e58943-e85d-403a-bedd-8aaa8b0f3b34" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Instagram' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b7e85a76fe8e567aaddb5fbce1174909.png" xmlns="">09mtc6lDVkECcUwIbOw7eaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

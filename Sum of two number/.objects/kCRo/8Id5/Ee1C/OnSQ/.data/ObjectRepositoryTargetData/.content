@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mfM_OGh70EWu-NY-f-aj4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="calculator.net" CVScreenId="400f9810-fec9-4a3e-bae7-008fab505c95" CvElementArea="830, 420, 74, 48" CvTextArea="860, 434, 13, 19" CvTextArgument="6" CvType="Button" DesignTimeRectangle="832, 423, 72, 44" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='sciout' tableRow='1' tag='TABLE' /&gt;&lt;webctrl aaname='6' class='scinm' parentid='sciout' tableRow='2' tag='SPAN' /&gt;" Guid="72c5ab3f-12ae-4a97-8c9d-9f9d67b4469b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d2863a7cbb0c4f7063adfaa39191405.png" xmlns="">0fn1hjRvRuUK_FcGevgIMBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

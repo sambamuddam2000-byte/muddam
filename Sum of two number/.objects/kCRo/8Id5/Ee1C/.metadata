@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Calculator.net Free Online Calculators",
+  "Type": "Screen",
+  "Id": "Ee1Ctrv1akeDyFxpVTXlAw",
+  "Reference": "kVNjYExTNkeLPUT-AlLBDw/Ee1Ctrv1akeDyFxpVTXlAw",
+  "ParentRef": "kVNjYExTNkeLPUT-AlLBDw/8Id5_XgEO0a1XzMjDC61Cg",
+  "Created": "2025-11-03T12:57:36.6367967Z",
+  "Updated": "2025-11-03T12:57:36.6367967Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

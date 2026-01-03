@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Instagram",
+  "Type": "App",
+  "Id": "5Wn5IfDkVkGpzlN-rAnDng",
+  "Reference": "Q99RjM7IOUyT1IwGpwc80w/5Wn5IfDkVkGpzlN-rAnDng",
+  "Created": "2025-11-17T03:46:01.1802862Z",
+  "Updated": "2025-11-17T03:46:01.1802862Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
