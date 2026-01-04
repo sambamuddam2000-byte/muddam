@@ -75,13 +75,13 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="825.0447761194031,1334.6865671641792" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="825.0447761194031,563.8208955223881" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="483.5820895522388,1311.761194029851" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap:VirtualizedContainerService.HintSize="483.5820895522388,540.8955223880597" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:String" Name="Birth" />
         <Variable x:TypeArguments="x:String" Name="Fullname" />
@@ -93,13 +93,13 @@
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="449.91044776119406,277.2537313432836" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Provide user name details" Title="User Name Details" TopMost="False">
+      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="449.91044776119406,57.3134328358209" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Provide user name details" Title="User Name Details" TopMost="False">
         <ui:InputDialog.Result>
           <OutArgument x:TypeArguments="x:String">[Fullname]</OutArgument>
         </ui:InputDialog.Result>
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
@@ -118,14 +118,15 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </Assign>
-      <Sequence sap:VirtualizedContainerService.HintSize="449.91044776119406,775.1641791044776" sap2010:WorkflowViewState.IdRef="Sequence_8">
+      <Assign sap:VirtualizedContainerService.HintSize="449.91044776119406,176.23880597014926" sap2010:WorkflowViewState.IdRef="Assign_8" />
+      <Sequence sap:VirtualizedContainerService.HintSize="449.91044776119406,48" sap2010:WorkflowViewState.IdRef="Sequence_8">
         <Sequence.Variables>
           <Variable x:TypeArguments="x:String" Name="YearBirth" />
           <Variable x:TypeArguments="x:String" Name="age" />
         </Sequence.Variables>
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
