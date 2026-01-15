@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PTcmniB9_UKIVUikDIBhzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/login" CVScreenId="e00e4dd6-7cb2-45b3-a5bc-57538663b4a9" CvElementArea="845, 656, 229, 74" CvTextArea="918, 680, 79, 27" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="848, 658, 224, 70" DesignTimeScaleFactor="1.3958333730697632" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="c6b0031d-4599-4335-9c76-b2d927fde046" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Login' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="95a3e510e28bf0475ac370ae02ee8ddb.png" xmlns="">0QCnKp5ddIUmJ3gEBsG8djA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
