@@ -1,0 +1,15 @@
+﻿{
+  "Name": "This is our very first robot - Notepad",
+  "Type": "App",
+  "Id": "bLOxOdhpxkaohAH73Wx2dw",
+  "Reference": "gQHwIufW-kCAsXr63Nb-QA/bLOxOdhpxkaohAH73Wx2dw",
+  "Created": "2026-02-02T08:13:21.7568872Z",
+  "Updated": "2026-02-03T18:06:53.2192192Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

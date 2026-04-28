@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Buy without Exchange",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "aSsVqoSzQUei9YDj3J_Ejw",
+  "Reference": "P4rVMcjmMkitc-DMHkKyOw/aSsVqoSzQUei9YDj3J_Ejw",
+  "ParentRef": "P4rVMcjmMkitc-DMHkKyOw/2b9Ud7yZyEa_loeYJZr8gQ",
+  "Created": "2026-01-07T09:30:52.7054952Z",
+  "Updated": "2026-01-07T09:30:52.7054952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

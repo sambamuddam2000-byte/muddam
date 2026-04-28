@@ -1,0 +1,16 @@
+﻿{
+  "Name": "This is our very first robot - Notepad",
+  "Type": "Screen",
+  "Id": "S2GEDoTTBUqQ1aMJusvjeQ",
+  "Reference": "gQHwIufW-kCAsXr63Nb-QA/S2GEDoTTBUqQ1aMJusvjeQ",
+  "ParentRef": "gQHwIufW-kCAsXr63Nb-QA/NYL2_t9v2U2EO6QOSDzD3w",
+  "Created": "2026-02-02T08:13:21.8284728Z",
+  "Updated": "2026-02-03T18:07:03.3584204Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
